@@ -258,7 +258,7 @@ header{
 
 
 footer{
-    background-color: red;
+/*     background-color: red; */
     display: block;
     bottom: 0;
     position: absolute;
